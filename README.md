@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## ENGR ERIC'S SIDE POCKET
 
-You can use the [editor on GitHub](https://github.com/EngrEric/EngrEric.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Don't neglect the time of your little begining 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aside this small pocket here, you can find my offline reseaches here `07061914110`
 
 ### Markdown
 
@@ -24,10 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ```
-[#FIRST WEB PAGE](https://engreric.github.io/first_website_repo/) and ![Image](src)
+Click here to see [MY FIRST STATIC WEB PAGE](https://engreric.github.io/first_website_repo/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+i created small question and answer app [ Q&As](https://engreric.github.io/final_assessment_eric/)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EngrEric/EngrEric.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
