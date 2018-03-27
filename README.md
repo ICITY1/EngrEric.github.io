@@ -23,8 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[#FIRST WEB PAGE](https://engreric.github.io/first_website_repo/) and ![Image](src)
 ```
+[#FIRST WEB PAGE](https://engreric.github.io/first_website_repo/) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
