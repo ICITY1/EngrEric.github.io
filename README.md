@@ -24,9 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ```
-Click here to see [MY FIRST STATIC WEB PAGE](https://engreric.github.io/first_website_repo/)
+Click here to see [MY FIRST STATIC WEB PAGE](https://e-stock-tracker.herokuapp.com/)
 
-i created small question and answer app [ Q&As](https://engreric.github.io/final_assessment_eric/)
+i created small question and answer app [ Q&As](https://qus.herokuapp.com//)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EngrEric/EngrEric.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
